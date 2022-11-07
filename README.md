@@ -3,6 +3,8 @@
 
 2. Setup the circuit on mbed board and breadboard as shown in figure below.
 
+![](https://github.com/lum33/hw3-5/blob/main/3-5-setup.jpg)
+
 3. Keep mbed board balance on the desk as much as possible while running the program.
 
 4. Flip mbed baord and press user button to decide current note length, then check result by pressing note button or length that printed in terminal.
@@ -19,3 +21,5 @@
     | Flip sideway        | 1           |               
     
 Note that: the blue color term that fits beside the average result indicates the current state space of mbed board.
+
+![](https://github.com/lum33/hw3-5/blob/main/3-5-commended.JPG)
